@@ -87,7 +87,7 @@ Credits to https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merg
 
 # Tagging
 
-Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on)
+Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on).
 
 Listing the existing tags in Git is straightforward. Just type git tag (with optional -l or --list):
 ```
