@@ -81,4 +81,6 @@ git branch -d <branch_name>
 
 ![basic-merging-2](https://user-images.githubusercontent.com/15891153/220135270-3fcb5c07-af16-4851-96fa-4b9fb8eadd33.png)
 
+Credits to: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
 # Solve merge conflicts
