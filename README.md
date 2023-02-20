@@ -50,3 +50,36 @@ Other options:
 ```
 git reset, restore, revert
 ```
+
+# Working with branches
+
+Create a new branch and switch to it:
+```
+git branch <branch_name>
+git checkout <branch_name>
+```
+
+Shorthand:
+```
+git checkout -b <branch_name>
+```
+
+Switch back to your master branch (**important**):
+```
+git checkout master
+```
+
+Basic merging (after commit changes) in the master:
+```
+git merge <branch_name>
+```
+
+Now that your work is merged in, you have no further need for the branch. You can delete the branch:
+```
+git branch -d <branch_name>
+```
+
+Result:
+![basic-merging-2](https://user-images.githubusercontent.com/15891153/220135270-3fcb5c07-af16-4851-96fa-4b9fb8eadd33.png)
+
+# Solve merge conflicts
