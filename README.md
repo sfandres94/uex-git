@@ -84,3 +84,7 @@ git branch -d <branch_name>
 Credits to: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 # Solve merge conflicts
+
+# Issues and pull requests
+
+https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
