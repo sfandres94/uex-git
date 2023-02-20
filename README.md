@@ -24,3 +24,13 @@ To push a commit from local to remote:
 ```
 git push
 ```
+
+Check the status of the repo:
+```
+git status
+```
+
+Reverts file changes:
+```
+git checkout -- <filename>
+```
