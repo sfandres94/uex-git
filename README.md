@@ -79,7 +79,6 @@ Now that your work is merged in, you have no further need for the branch. You ca
 git branch -d <branch_name>
 ```
 
-Result:
 ![basic-merging-2](https://user-images.githubusercontent.com/15891153/220135270-3fcb5c07-af16-4851-96fa-4b9fb8eadd33.png)
 
 # Solve merge conflicts
