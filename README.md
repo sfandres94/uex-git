@@ -34,3 +34,19 @@ Reverts file changes:
 ```
 git checkout -- <filename>
 ```
+
+Move a file:
+```
+git mv <source> <destination>
+```
+
+Show commit logs:
+```
+git log
+```
+Common flags: `-p <num>` to limit the output, `--stat`, `-S <function_name>`, `--since`, `--pretty`.
+
+Other options:
+```
+git reset, restore, revert
+```
