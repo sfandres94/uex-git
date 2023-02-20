@@ -87,4 +87,8 @@ Credits to: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Mer
 
 # Issues and pull requests
 
+Reference code in issues:
+https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referencia-comentar-o-compartir/
+
+Information on pull requests:
 https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
