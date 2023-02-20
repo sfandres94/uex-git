@@ -81,9 +81,26 @@ git branch -d <branch_name>
 
 ![basic-merging-2](https://user-images.githubusercontent.com/15891153/220135270-3fcb5c07-af16-4851-96fa-4b9fb8eadd33.png)
 
-Credits to: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+Credits to https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 # Solve merge conflicts
+
+# Tagging
+
+Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on)
+
+Listing the existing tags in Git is straightforward. Just type git tag (with optional -l or --list):
+```
+git tag
+```
+
+Creating tags:
+```
+git tag -a <number_of_version> -m "<tagging_message>"
+```
+where `number_of_version` can have the following format: v1.4, v1.8.5, etc.
+
+Credits to https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
 # Issues and pull requests
 
