@@ -43,12 +43,20 @@ git mv <source> <destination>
 Show commit logs:
 ```
 git log
+git log --oneline
 ```
 Common flags: `-p <num>` to limit the output, `--stat`, `-S <function_name>`, `--since`, `--pretty`.
 
+To discard all changes made after the specified commit (with hash):
+```
+git reset --hard <commit hash>
+git push --force
+```
+The branch pointer is now moved to the specified commit, and all changes after that commit are discarded. Note that this operation cannot be undone, so be careful when using git reset.
+
 Other options:
 ```
-git reset, restore, revert
+git restore, revert
 ```
 
 # Working with branches
