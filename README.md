@@ -81,6 +81,7 @@ Basic merging (after commit changes) in the master:
 ```
 git merge <branch_name>
 ```
+Use the `--no-ff` option if you want to keep some information regarding the developing branch.
 
 Now that your work is merged in, you have no further need for the branch. You can delete the branch:
 ```
