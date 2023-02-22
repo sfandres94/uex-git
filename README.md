@@ -101,12 +101,23 @@ Listing the existing tags in Git is straightforward. Just type git tag (with opt
 ```
 git tag
 ```
+```
+git log
+```
 
 Creating tags:
 ```
 git tag -a <number_of_version> -m "<tagging_message>"
 ```
 where `number_of_version` can have the following format: v1.4, v1.8.5, etc.
+
+Adding tags to existing commits:
+```
+git tag -a <number_of_version> <commit_hash> -m "<tagging_message>"
+```
+```
+git push origin <number_of_version>
+```
 
 Credits to https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
