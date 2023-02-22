@@ -117,3 +117,6 @@ https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referenc
 
 Information on pull requests:
 https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
+
+Information on merging and branching:
+https://nvie.com/posts/a-successful-git-branching-model/
