@@ -5,7 +5,7 @@ def read_numbers():
     return num1, num2
 
 # Simple menu.
-print('Welcome to the calculator!')
+print('Welcome to the calculatoraaaaaa!')
 print('Please choose an operation:')
 print('    1. Addition')
 print('    2. Subtraction')
