@@ -59,6 +59,10 @@ Other options:
 git restore, revert
 ```
 
+# .gitignore
+
+Slides.
+
 # Working with branches
 
 Create a new branch and switch to it:
