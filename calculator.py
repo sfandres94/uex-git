@@ -4,6 +4,8 @@ def read_numbers():
     num2 = float(input('Enter second number: '))
     return num1, num2
 
+print('Esto se ha cambiado en el apartado de los fork')
+
 # Simple menu.
 print('Welcome to the calculator!')
 print('Please choose an operation:')
