@@ -1,4 +1,3 @@
-# Custom function to read the two numbers.
 def read_numbers():
     num1 = float(input('Enter first number: '))
     num2 = float(input('Enter second number: '))
