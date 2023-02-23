@@ -61,7 +61,7 @@ git restore, revert
 
 # .gitignore
 
-Slides.
+https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an
 
 # Working with branches
 
