@@ -63,43 +63,6 @@ git restore, revert
 
 https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an
 
-# Working with branches
-
-Create a new branch and switch to it:
-```
-git branch <branch_name>
-git checkout <branch_name>
-```
-
-Shorthand:
-```
-git checkout -b <branch_name>
-```
-
-Switch back to your master branch (**important**):
-```
-git checkout master
-```
-
-Basic merging (after commit changes) in the master:
-```
-git merge <branch_name>
-```
-Use the `--no-ff` option if you want to keep some information regarding the developing branch.
-
-Now that your work is merged in, you have no further need for the branch. You can delete the branch:
-```
-git branch -d <branch_name>
-```
-
-![basic-merging-2](https://user-images.githubusercontent.com/15891153/220135270-3fcb5c07-af16-4851-96fa-4b9fb8eadd33.png)
-
-Credits to https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-
-# Solve merge conflicts
-
-In the slides of the course.
-
 # Tagging
 
 Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on).
