@@ -1,5 +1,22 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # uex-git
-This repository has been created for practice during the class at the UEx.
+This repository has been created for the Git lab session of the Multimedia Systems subject at the University of Extremadura (UEx).
+
+## Table of contents
+* [Basic commands](#basic-commands)
+* [Gitignore](#gitignore)
+* [Tagging](#tagging)
+* [Issues and pull requests](#issues-and-pull-requests)
+* [License](#license)
 
 # Basic commands
 
@@ -59,7 +76,7 @@ Other options:
 git restore, revert
 ```
 
-# .gitignore
+# Gitignore
 
 https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an
 
@@ -101,3 +118,11 @@ https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-g
 
 Information on merging and branching:
 https://nvie.com/posts/a-successful-git-branching-model/
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/sfandres
