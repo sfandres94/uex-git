@@ -114,7 +114,7 @@ Credits to: [Link](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 * [Information on pull requests](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 * [Information on merging and branching](https://nvie.com/posts/a-successful-git-branching-model/)
 
-## License
+# License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 <!-- MARKDOWN LINKS & IMAGES -->
