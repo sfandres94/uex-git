@@ -8,7 +8,7 @@
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# uex-git
+# UEx-Git
 This repository has been created for the Git lab session of the Multimedia Systems subject at the University of Extremadura (UEx).
 
 ## Table of contents
@@ -18,7 +18,7 @@ This repository has been created for the Git lab session of the Multimedia Syste
 * [Issues and pull requests](#issues-and-pull-requests)
 * [License](#license)
 
-# Basic commands
+## Basic commands
 
 Add the new/modified/deleted files to the repo:
 ```
@@ -76,11 +76,11 @@ Other options:
 git restore, revert
 ```
 
-# Gitignore
+## Gitignore
 
 Difference between .gitignore rules with and without trailing slash like /dir and /dir/: [Link](https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an)
 
-# Tagging
+## Tagging
 
 Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on).
 
@@ -108,13 +108,13 @@ git push origin <number_of_version>
 
 Credits to: [Link](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
-# Issues and pull requests
+## Issues and pull requests
 
 * [Reference code in issues](https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referencia-comentar-o-compartir/)
 * [Information on pull requests](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 * [Information on merging and branching](https://nvie.com/posts/a-successful-git-branching-model/)
 
-# License
+## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 <!-- MARKDOWN LINKS & IMAGES -->
