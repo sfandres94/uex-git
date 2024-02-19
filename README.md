@@ -78,7 +78,7 @@ git restore, revert
 
 # Gitignore
 
-https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an
+Difference between .gitignore rules with and without trailing slash like /dir and /dir/: [Link](https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an)
 
 # Tagging
 
@@ -106,18 +106,13 @@ git tag -a <number_of_version> <commit_hash> -m "<tagging_message>"
 git push origin <number_of_version>
 ```
 
-Credits to https://git-scm.com/book/en/v2/Git-Basics-Tagging
+Credits to: [Link](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
 # Issues and pull requests
 
-Reference code in issues:
-https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referencia-comentar-o-compartir/
-
-Information on pull requests:
-https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
-
-Information on merging and branching:
-https://nvie.com/posts/a-successful-git-branching-model/
+* [Reference code in issues](https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referencia-comentar-o-compartir/)
+* [Information on pull requests](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
+* [Information on merging and branching](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
