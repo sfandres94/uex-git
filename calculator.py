@@ -43,6 +43,7 @@ while True:
                 print("Error: division by zero")
         
         elif choice == '5':
+        result= (num1 + num2)*num1
             break
     else:
         print('Invalid Input')
