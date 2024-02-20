@@ -44,6 +44,7 @@ while True:
         
         elif choice == '5':
         result= (num1 + num2)*num1
+                        print("teorema de jose")
             break
     else:
         print('Invalid Input')
