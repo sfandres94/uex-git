@@ -1,8 +1,12 @@
-# Custom function to read the two numbers.
 def read_numbers():
-    num1 = float(input('Enter first number: '))
-    num2 = float(input('Enter second number: '))
-    return num1, num2
+    while True:
+        try:
+            num1 = float(input('Enter first number: '))
+            num2 = float(input('Enter second number: '))
+            return num1, num2
+        except ValueError:
+            print("Please enter a valid number.")
+
 
 # Simple menu.
 print('Welcome to the calculator!')
