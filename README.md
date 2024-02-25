@@ -15,11 +15,11 @@ This repository has been created for the Git lab session of the Multimedia Syste
 * [Basic commands](#basic-commands)
 * [Gitignore](#gitignore)
 * [Tagging](#tagging)
+* [Working with branches](#working-with-branches)
 * [Issues and pull requests](#issues-and-pull-requests)
 * [License](#license)
 
 ## Basic commands
-
 Add the new/modified/deleted files to the repo:
 ```
 git add <filename>
@@ -77,14 +77,12 @@ git restore, revert
 ```
 
 ## Gitignore
-
 Difference between .gitignore rules with and without trailing slash like /dir and /dir/: [Link](https://stackoverflow.com/questions/17888695/difference-between-gitignore-rules-with-and-without-trailing-slash-like-dir-an)
 
 ## Tagging
+Like most VCSs, Git can tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0, and so on).
 
-Like most VCSs, Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on).
-
-Listing the existing tags in Git is straightforward. Just type git tag (with optional -l or --list):
+Listing the existing tags in Git is straightforward. Just type the following with optional `-l` or `--list`:
 ```
 git tag
 ```
@@ -108,11 +106,12 @@ git push origin <number_of_version>
 
 Credits to: [Link](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
-## Issues and pull requests
+## Working with branches
+* [Information on branching and merging](https://nvie.com/posts/a-successful-git-branching-model/)
 
+## Issues and pull requests
 * [Reference code in issues](https://geeks.ms/jorge/2017/08/26/marcar-un-codigo-en-github-para-hacer-referencia-comentar-o-compartir/)
 * [Information on pull requests](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
-* [Information on merging and branching](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
