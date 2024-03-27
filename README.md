@@ -9,7 +9,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # UEx-Git
-This repository has been created for the Git lab session of the Multimedia Systems subject at the University of Extremadura (UEx).
+This repository has been created for the lab session on Git and GitHub of the Multimedia Systems subject at the University of Extremadura (UEx).
 
 ## Table of contents
 * [Basic commands](#basic-commands)
